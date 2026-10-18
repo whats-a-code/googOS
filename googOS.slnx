@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="googOS/googOS.vcxproj" Id="fabe26b3-b2f9-4aff-b39c-b75c2b0350e3" />
+</Solution>
