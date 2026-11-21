@@ -23,7 +23,7 @@ Revision History
 //  EFI_NT_EMULATOR         - Building for running under NT
 //
 
-
+#define EFI_MAIN efi_main
 #ifndef _EFI_INCLUDE_
 #define _EFI_INCLUDE_
 
